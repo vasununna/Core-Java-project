@@ -32,6 +32,7 @@ public class Votingeligibility {
 				System.out.println("Eligible to voting");
 			
 			}
+			
 		else {
 			System.out.println("Not eligible to vote");
 		}
@@ -46,5 +47,6 @@ public class Votingeligibility {
 			System.out.println("Voterid required for voting ");
 		}
 	}
+
 
 }
